@@ -1,4 +1,4 @@
 # sample_go_module
-Example Go Module
+Example Go Module.
 
 ## Testing Go Module
